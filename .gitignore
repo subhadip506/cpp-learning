@@ -30,4 +30,11 @@
 *.exe
 *.out
 *.app
-*.vs
+
+.vs/
+x64/
+Debug/
+Release/
+*.pdb
+*.obj
+*.exe
