@@ -31,11 +31,26 @@
 *.out
 *.app
 
+# Visual Studio
 .vs/
 x64/
 Debug/
 Release/
 
-*.pdb
-*.obj
+# Visual Studio project user files
+*.vcxproj.user
+
+# Build output
 *.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog
+*.recipe
+
+# CMake/build directories if used later
+build/
+out/
