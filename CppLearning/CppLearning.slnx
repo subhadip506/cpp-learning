@@ -6,4 +6,6 @@
   <Project Path="HelloWorld/HelloWorld.vcxproj" Id="7c8bc462-058b-415c-9501-d577b106c4aa" />
   <Project Path="Practice1/Practice1.vcxproj" Id="370c0777-4b29-4528-bb16-ac78aba51887" />
   <Project Path="practice2/practice2.vcxproj" Id="796af2cc-5f97-46da-976f-7e12a943b55c" />
+  <Project Path="Practice3/Practice3.vcxproj" Id="5d6060ae-7f79-4ab1-8936-7f3c59f3bbce" />
+  <Project Path="Practice4/Practice4.vcxproj" Id="7a2f7584-52f9-4e8f-b031-ec1904cbc4c0" />
 </Solution>
