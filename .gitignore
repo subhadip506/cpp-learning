@@ -53,6 +53,10 @@ x86/
 Debug/
 Release/
 
+# Build output
+bin/
+build/
+
 # Visual Studio temporary/build files
 *.tlog
 *.log
